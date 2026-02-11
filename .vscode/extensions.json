@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "mikestead.dotenv",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "wix.vscode-import-cost",
+        "orta.vscode-jest",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-vsliveshare.vsliveshare",
+        "tyriar.luna-paint",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "wallabyjs.quokka-vscode",
+        "redhat.fabric8-analytics",
+        "redhat.vscode-yaml"
+    ]
+}
